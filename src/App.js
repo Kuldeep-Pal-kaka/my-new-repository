@@ -10,7 +10,7 @@ import men_banner from './components/Assets/Assets/banner_mens.png'
 import women_banner from './components/Assets/Assets/banner_women.png'
 import kids_banner from './components/Assets/Assets/banner_kids.png'
 
-
+     
 function App() {
   return (
   <div className="App">
